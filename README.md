@@ -103,5 +103,3 @@ This table provides a high-level overview of all the Data Structures, Algorithms
 * [cite_start]**LeetCode Explore Cards:** The official topic-wise learning tracks[cite: 95].
 
 [cite_start]**Success Rule: “1 Topic + 5 Problems/Day × 120 Days = FAANG Level Guaranteed”** [cite: 101]
-
-                           ---
