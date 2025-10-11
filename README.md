@@ -86,3 +86,30 @@ This table provides a high-level overview of all the Data Structures, Algorithms
 * [cite_start]**LeetCode Explore Cards:** The official topic-wise learning tracks[cite: 95].
 
 [cite_start]**Success Rule: “1 Topic + 5 Problems/Day × 120 Days = FAANG Level Guaranteed”** [cite: 101]
+
+---
+
+## 🔗 Recommended Interactive Visualization Resource
+
+For deeper conceptual understanding and real-time visualization of data structures and algorithms, it is **highly recommended** to explore the following external educational resource:
+
+> **[Visualgo — Algorithm Visualizations](https://visualgo.net/en)**  
+> *Developed by National University of Singapore (NUS)*  
+> Provides step-by-step animated visualizations for a wide range of data structures and algorithms — including sorting, searching, trees, heaps, graphs, dynamic programming, and more.
+
+### 📘 Proper Academic Citation
+If you mention or reference Visualgo within your work, please include the following citation for clarity and attribution:
+
+> **Citation:**  
+> Visualgo. *Visualgo — Algorithm Visualizations.* National University of Singapore (NUS).  
+> Retrieved October 11, 2025, from [https://visualgo.net/en](https://visualgo.net/en)
+
+### ⚖️ Usage & Copyright Note
+This repository **only links to and recommends** Visualgo as a learning aid.  
+All copyrights and intellectual property for Visualgo remain with their original creators at NUS.  
+No Visualgo source code, animations, or proprietary assets are included or redistributed here.  
+Please visit the official site to interact with and study the visualizations directly.
+
+---
+
+> 🧠 **Must-Watch Resource:** If you aim for in-depth mastery of DSA concepts through visualization, [Visualgo](https://visualgo.net/en) is one of the most authoritative and pedagogically refined tools available.
