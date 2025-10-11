@@ -66,24 +66,7 @@ This table provides a high-level overview of all the Data Structures, Algorithms
 | **3** | [cite_start]Linked List [cite: 3] | [cite_start]Two Pointers, In-place Reversal [cite: 3] | [cite_start]Fast-Slow Pointers, Reversal, Cycle Detection [cite: 4] |
 | **4** | [cite_start]Stack [cite: 4] | [cite_start]Monotonic Stack, Parenthesis Matching [cite: 4] | [cite_start]Stack-based Problems, Monotonic Stack [cite: 5] |
 | **5** | [cite_start]Queue [cite: 5] | [cite_start]BFS, Sliding Window [cite: 5] | [cite_start]Monotonic Queue, Deque Sliding Window [cite: 5] |
-| **6** | [cite_start]Heap / Priority Queue [cite: 6] | [cite_start]Top K, Dijkstra, Kth Smallest [cite: 6] | [cite_start]Top K Elements, Heap, Greedy [cite: 6] |
-| **7** | [cite_start]HashMap / HashSet [cite: 7] | [cite_start]Frequency Count, LRU Cache [cite: 7] | [cite_start]Hashing, Map+Sliding Window [cite: 7] |
-| **8** | [cite_start]Trie [cite: 8] | [cite_start]Word Search, Aho-Corasick [cite: 8] | [cite_start]Trie + DFS, Trie + DP [cite: 8] |
-| **9** | [cite_start]Graph [cite: 9] | [cite_start]BFS, DFS, Dijkstra, MST, SCC [cite: 9] | [cite_start]DFS, BFS, Union-Find, DSU, Topo Sort [cite: 10] |
-| **10** | [cite_start]Binary Search Tree (BST) [cite: 10] | [cite_start]Search, Delete, Insert [cite: 10] | [cite_start]Recursion, Binary Search [cite: 10] |
-| **12** | [cite_start]Segment Tree [cite: 11] | [cite_start]Range Query/Update [cite: 12] | [cite_start]Segment Tree, Lazy Propagation [cite: 12] |
-| **16** | [cite_start]Dynamic Programming [cite: 14] | [cite_start]Memo, Tabulation [cite: 14] | [cite_start]0/1 Knapsack, Unbounded Knapsack [cite: 15] |
-| **17** | [cite_start]Disjoint Set Union (DSU) [cite: 15] | [cite_start]Union by Rank + Path Compression [cite: 15] | [cite_start]Union Find, Kruskal’s [cite: 16] |
-| **27** | [cite_start]Topological Sort [cite: 22] | [cite_start]Kahn's/DFS [cite: 22] | [cite_start]Directed Graph, Cycle Detection [cite: 22] |
-| **34** | [cite_start]Longest Increasing Subsequence [cite: 27] | [cite_start]Binary Search + DP [cite: 27] | [cite_start]Patience Sorting [cite: 28] |
-| **41** | [cite_start]KMP Algorithm [cite: 33] | [cite_start]Prefix Table [cite: 33] | [cite_start]String Matching, Z-Algorithm [cite: 34] |
-| **42** | [cite_start]Rabin-Karp [cite: 34] | [cite_start]Rolling Hash [cite: 34] | [cite_start]Pattern Matching, Hashing [cite: 34] |
-| **47** | [cite_start]Binary Lifting [cite: 37] | [cite_start]Ancestor Jumps [cite: 38] | [cite_start]LCA, Tree Queries [cite: 38] |
-| **49** | [cite_start]Bitmask DP [cite: 39] | [cite_start]DP on Subsets [cite: 39] | [cite_start]TSP, Assignment Problems [cite: 39] |
-| **52** | [cite_start]Meet in the Middle [cite: 41] | [cite_start]Divide Array in Half [cite: 41] | [cite_start]Subset Sum, Count Combinations [cite: 42] |
-| **58** | [cite_start]Game Theory [cite: 45] | [cite_start]Grundy Numbers, XOR of Heaps [cite: 46] | [cite_start]Nim Game, Sprague-Grundy [cite: 46] |
-| **59** | [cite_start]2-SAT [cite: 46] | [cite_start]Implication Graph + SCC [cite: 47] | [cite_start]Boolean Formula Check [cite: 47] |
-| **63** | [cite_start]Flow Algorithms [cite: 49] | [cite_start]Ford-Fulkerson, Dinic [cite: 49] | [cite_start]Max Flow, Min Cut [cite: 49] |
+| **6** | [cite_start]Heap / Priority Queue [cite: 6] | [cite_start]Top K, Dijkstra, Kth Smallest [cite: 6] | [cite_start]Top K Elements, Heap, Greedy [cite: 6] |....
 | **67** | [cite_start]Persistent Segment Tree [cite: 52] | [cite_start]Functional Updates [cite: 52] | [cite_start]Time Travel Querying [cite: 52] |
 | **79** | [cite_start]Heavy-Light Decomposition [cite: 60] | [cite_start]Chain Decomposition [cite: 61] | [cite_start]Tree Queries [cite: 61] |
 | **80** | [cite_start]Centroid Decomposition [cite: 61] | [cite_start]Recursive Tree Splitting [cite: 61] | [cite_start]Optimization Queries [cite: 62] |
