@@ -101,7 +101,7 @@ For deeper conceptual understanding and real-time visualization of data structur
 > Visualgo. *Visualgo — Algorithm Visualizations.* National University of Singapore (NUS).  
 > Retrieved October 11, 2025, from [https://visualgo.net/en](https://visualgo.net/en)
 
-### ⚖️ Usage & Copyright Note
+### Usage & Copyright Note
 This repository **only links to and recommends** Visualgo as a learning aid.  
 All copyrights and intellectual property for Visualgo remain with their original creators at NUS.  
 No Visualgo source code, animations, or proprietary assets are included or redistributed here.  
@@ -109,4 +109,4 @@ Please visit the official site to interact with and study the visualizations dir
 
 ---
 
-> 🧠 **Must-Watch Resource:** If you aim for in-depth mastery of DSA concepts through visualization, [Visualgo](https://visualgo.net/en) is one of the most authoritative and pedagogically refined tools available.
+> **Must-Watch Resource:** If you aim for in-depth mastery of DSA concepts through visualization, [Visualgo](https://visualgo.net/en) is one of the most authoritative and pedagogically refined tools available.
