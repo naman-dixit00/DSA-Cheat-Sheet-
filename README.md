@@ -97,11 +97,11 @@ For deeper conceptual understanding and real-time visualization of data structur
 > *Developed by National University of Singapore (NUS)*  
 > Provides step-by-step animated visualizations for a wide range of data structures and algorithms — including sorting, searching, trees, heaps, graphs, dynamic programming, and more.
 
-### Citation   
+### 🔗 Citation   
 > Visualgo. *Visualgo — Algorithm Visualizations.* National University of Singapore (NUS).  
 > Retrieved October 11, 2025, from [https://visualgo.net/en](https://visualgo.net/en)
 
-### Usage & Copyright Note
+### 🔗 Usage & Copyright Note
 This repository **only links to and recommends** Visualgo as a learning aid.  
 All copyrights and intellectual property for Visualgo remain with their original creators at NUS.  
 No Visualgo source code, animations, or proprietary assets are included or redistributed here.  
