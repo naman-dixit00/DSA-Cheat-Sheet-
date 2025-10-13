@@ -125,3 +125,214 @@
 | 123 | String Matching with Hashing   | Hash Comparison                       | Karp-Rabin                                    | [ ] |
 | 124 | Game Theory Grundy             | State XOR Analysis                    | Sprague-Grundy                                | [ ] |
 | 125 | Tree-Based Bitmask DP          | Bitmask per Subtree                   | Tree + Bitmask DP                             | [ ] |
+
+                         ---
+
+# FAANG Core DSA Cheat Sheet (MIT-Level)
+
+> **Scope:** Core Data Structures & Algorithms most frequently asked in FAANG interviews (Facebook/Meta, Amazon, Apple, Netflix, Google).  
+> **Goal:** Pattern recognition, problem-solving frameworks, and optimization.
+
+---
+
+## Sliding Window
+**Concept:** Maintain a dynamic window over data for subarray/subsequence problems.  
+**Use-Cases:**
+- Maximum/Minimum sum subarray of size `k`
+- Longest substring without repeating characters
+- String anagrams
+- Subarray sum constraints  
+**Key Insight:** Adjust window boundaries while maintaining invariants.
+
+---
+
+## Two Pointers
+**Concept:** Use two iterators to traverse efficiently.  
+**Use-Cases:**
+- Pair sum / triplet in sorted array
+- Remove duplicates
+- Reverse array / linked list
+- Container With Most Water  
+**Key Insight:** Move one pointer based on conditional checks.
+
+---
+
+## BFS / DFS
+**Concept:** Graph/Tree traversal frameworks.  
+**BFS:** Level-order traversal, shortest path in unweighted graph.  
+**DFS:** Explore deeply; used for connectivity, cycles, topological sorting.  
+**Use-Cases:**
+- Word Ladder  
+- Clone Graph  
+- Binary Tree level order traversal  
+**Key Insight:** BFS → Queue | DFS → Stack/Recursion.
+
+---
+
+## Recursion / Backtracking
+**Concept:** Explore all possible states via recursive search and backtrack.  
+**Use-Cases:**
+- Permutations & Combinations  
+- N-Queens  
+- Subset Sum  
+- Sudoku Solver  
+**Key Insight:** Base + Recursive case; undo choices after exploring.
+
+---
+
+## Dynamic Programming (DP)
+**Concept:** Optimize overlapping subproblems with memoization/tabulation.  
+**Core Patterns:**
+- Longest Common Subsequence (LCS)  
+- 0/1 Knapsack  
+- Subset / Partition problems  
+- DP on Strings / Grids / Subsequences  
+**Key Insight:** Identify optimal substructure; convert recursion → iterative DP.
+
+---
+
+## Greedy Algorithms
+**Concept:** Local optimum → Global optimum.  
+**Use-Cases:**
+- Interval Scheduling / Merging  
+- Activity Selection  
+- Huffman Encoding  
+- Minimum Platforms  
+**Key Insight:** Sort + choose optimal candidate at each step.
+
+---
+
+## Heap / Priority Queue
+**Concept:** Efficiently access min/max in dynamic datasets.  
+**Use-Cases:**
+- Top K elements  
+- Kth largest/smallest element  
+- Merge K sorted lists  
+- Dijkstra’s Algorithm  
+**Key Insight:** Min-heap / Max-heap control element ordering.
+
+---
+
+## Binary Search
+**Concept:** Halve search space iteratively or recursively.  
+**Use-Cases:**
+- Search in sorted array  
+- Binary search on answer (parametric search)  
+- Rotated sorted array  
+- Peak element  
+**Key Insight:** Define `mid` carefully; avoid infinite loops.
+
+---
+
+## Graph Algorithms
+**Core Techniques:**
+- BFS / DFS Traversal  
+- Union-Find (Disjoint Set) – Cycle detection, Kruskal’s MST  
+- Topological Sort – DAG ordering  
+- Dijkstra / Bellman-Ford / Floyd-Warshall – Shortest paths  
+**Key Insight:** Use adjacency list; analyze `V + E` complexity.
+
+---
+
+## Trie (Prefix Tree)
+**Concept:** Efficient word storage & prefix search.  
+**Use-Cases:**
+- Word Dictionary  
+- Auto-complete System  
+- Prefix Matching  
+- Longest Common Prefix  
+**Key Insight:** Each node = character; traversal encodes prefixes.
+
+---
+
+## Linked List
+**Operations:**
+- Reverse linked list  
+- Detect cycle (Floyd’s Tortoise & Hare)  
+- Merge sorted lists  
+- Intersection of linked lists  
+**Key Insight:** Maintain head/tail pointers and handle `null` safely.
+
+---
+
+## Stack / Queue
+**Stack (LIFO):**
+- Valid Parentheses  
+- Next Greater Element  
+- Monotonic Stack  
+**Queue (FIFO):**
+- Sliding Window Maximum  
+- BFS Level Traversal  
+**Key Insight:** Stack → reversal logic | Queue → order maintenance.
+
+---
+
+## LRU Cache
+**Concept:** Eviction policy maintaining least recently used items.  
+**Implementation:** Doubly Linked List + HashMap  
+**Operations:**  
+- `get()` → O(1)  
+- `put()` → O(1)  
+**Key Insight:** Maintain usage order dynamically.
+
+---
+
+## Segment Tree
+**Concept:** Range queries and updates in logarithmic time.  
+**Use-Cases:**
+- Range sum/min/max  
+- Range updates  
+- Interval aggregation  
+**Key Insight:** Divide array segments; each node = merged info.
+
+---
+
+## Complexity Summary
+
+| Category | Avg Time | Space |
+|-----------|-----------|--------|
+| Sliding Window | O(n) | O(1) |
+| Two Pointers | O(n) | O(1) |
+| BFS/DFS | O(V + E) | O(V) |
+| DP | O(n²) | O(n²) |
+| Greedy | O(n log n) | O(1) |
+| Heap/PQ | O(log n) | O(n) |
+| Binary Search | O(log n) | O(1) |
+| Trie | O(L) | O(ALPHABET_SIZE × L) |
+| Linked List | O(n) | O(1) |
+| Stack/Queue | O(n) | O(n) |
+| LRU Cache | O(1) per op | O(capacity) |
+| Segment Tree | O(log n) | O(4n) |
+
+---
+
+## MIT Insight
+> “Every FAANG problem maps to a known pattern.  
+> Master **pattern recognition → optimization → communication.**”
+
+---
+
+### Recommended Practice Platforms
+- **LeetCode** – Pattern mastery  
+- **AlgoExpert** – Structured problem sets  
+- **InterviewBit** – Level-based progression  
+- **Codeforces / AtCoder** – Competitive reinforcement
+
+---
+
+### Reference
+- *MIT 6.006 – Introduction to Algorithms*  
+- *CLRS – Algorithms (Cormen, Leiserson, Rivest, Stein)*  
+- *LeetCode Discuss Patterns Collection*
+
+---
+
+
+
+
+
+
+
+
+
+
