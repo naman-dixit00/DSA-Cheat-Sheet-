@@ -126,7 +126,7 @@
 | 124 | Game Theory Grundy             | State XOR Analysis                    | Sprague-Grundy                                | [ ] |
 | 125 | Tree-Based Bitmask DP          | Bitmask per Subtree                   | Tree + Bitmask DP                             | [ ] |
 
-                         ---
+                    
 
 # FAANG Core DSA Cheat Sheet (MIT-Level)
 
